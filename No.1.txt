@@ -1,3 +1,0 @@
-Git isa version control system.
-Git is free software,so we all love her!
-We are young!
